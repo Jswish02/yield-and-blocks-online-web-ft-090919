@@ -1,5 +1,5 @@
 def hello_t(array)
-  if black_given?
+  if blcck_given?
     i=0 
     while i < array.length
     yeild(array[i])
